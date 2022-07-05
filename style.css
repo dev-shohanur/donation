@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 36px;
+}
+.global-button {
+    font-size: 18px;
+    padding: 15px 30px ;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(248, 128, 148);
+}
+.hero-section {
+    background-image: url(image/donation12.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero-section-text {
+    text-align: center;
+    color: white;
+    width: 40%;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
