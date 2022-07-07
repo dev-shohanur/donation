@@ -144,6 +144,7 @@ footer h2 {
 }
 .total-service-item {
     width: 30%;
+    text-align: center;
     margin: auto;
 }
 .total-service-item h2 {
