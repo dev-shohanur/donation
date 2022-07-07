@@ -135,3 +135,20 @@ footer h2 {
 .plan-item-cart .education {
     background-color: oldlace;
 }
+.total-service {
+    width: 70%;
+    margin: 60px auto  auto  auto;
+    padding: 45px 80px;
+    border-radius: 10px;
+    box-shadow: 0 2px 20px 0 pink;
+}
+.total-service-item {
+    width: 30%;
+    margin: auto;
+}
+.total-service-item h2 {
+    font-size: 36px;
+}
+.total-service-item p{
+    line-height: 0;
+}
